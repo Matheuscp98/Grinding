@@ -1,6 +1,6 @@
 # ⚙️ Tabular Dataset for Analysis of an Industrial Cylindrical Plunge Grinding Process
 
-**DOI:** _To be added (Zenodo)_
+**DOI:** [10.5281/zenodo.17873859](https://doi.org/10.5281/zenodo.17873859)
 
 ---
 
@@ -26,7 +26,7 @@ For every configuration, **ten repeated dimensional measurements** were collecte
 - `T2`
 - `T3`
 
-All data are stored in **`griding.csv`**, the main dataset of this repository.
+All data are stored in [**Griding**](griding.csv), the main dataset of this repository.
 
 The dataset is intended for:
 
@@ -52,7 +52,7 @@ This dataset is part of the research study:
 ## 🛠️ How to Use
 
 1. Clone or download this repository.
-2. Open `griding.csv` using:
+2. Open [**Griding**](griding.csv) using:
    - Python (pandas)
    - R
    - MATLAB
@@ -71,8 +71,8 @@ This dataset is part of the research study:
 
 | File | Description |
 |------|-------------|
-| **README.md** | Documentation of dataset purpose, structure, and usage. |
-| **griding.csv** | Main dataset containing machining parameters, noise factors, repeated measurements, and dimensional outputs (T1, T2, T3). |
+| [**README**](README.md) | Documentation of dataset purpose, structure, and usage. |
+| [**Griding**](griding.csv) | Main dataset containing machining parameters, noise factors, repeated measurements, and dimensional outputs (T1, T2, T3). |
 
 ---
 
@@ -98,8 +98,8 @@ This dataset is part of the research study:
 
 ## 📜 License
 
-This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-See the `LICENSE` file for more information.
+This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0).  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
